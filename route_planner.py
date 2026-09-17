@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Plan delivery trips from a CSV file."""
-
+ 
+ 
 from __future__ import annotations
 
 import argparse
