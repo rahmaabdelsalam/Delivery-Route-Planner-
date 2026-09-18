@@ -8,13 +8,13 @@ vehicle trips, following capacity, priority, and area-grouping rules.
 Requires Python 3.10+ (no external dependencies).
 
 ```bash
-python3 route_planner.py sample_deliveries.csv
+python3 src/route_planner.py samples/sample_deliveries.csv
 ```
 
 Optional JSON output:
 
 ```bash
-python3 route_planner.py sample_deliveries.csv --json
+python3 src/route_planner.py samples/sample_deliveries.csv --json
 ```
 
 ### Input format
@@ -31,7 +31,7 @@ CSV with a header row and these required columns:
 Supported areas (case-insensitive): `Heliopolis`, `Nasr City`, `New Cairo`,
 `Maadi`, `Zamalek`.
 
-A sample file, `sample_deliveries.csv`, is included in this repository.
+A sample file, `samples/sample_deliveries.csv`, is included in this repository.
 
 Any row that fails validation (duplicate ID, unsupported area, non-positive
 weight, weight over capacity, etc.) is **skipped** and reported in the
