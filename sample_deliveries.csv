@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 id,area,priority,weight_kg
 1,Nasr City,2,4
 11,heliopolis,2,4
@@ -14,3 +15,15 @@ id,area,priority,weight_kg
 9,heliopolis,1,2
 10,new cairo,1,5
 19,dokki,3,9
+=======
+id,area,priority,weight_kg
+1,Nasr City,2,4.5
+2,Maadi,1,2
+3,Nasr City,3,1.2
+4,Zamalek,1,7
+5,Maadi,2,3.5
+6,Maadi,2,8
+7,Nasr City,1,11
+5,Nasr City,2,9
+2,Zamalek,4,5
+>>>>>>> d6b9e59ebf07c6e7452f25c7128024c8feb3a280
