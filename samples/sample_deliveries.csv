@@ -6,13 +6,12 @@ id,area,priority,weight_kg
 5,Maadi,2,3.5
 6,Maadi,2,8
 7,Nasr City,1,11
-5,Nasr City,2,9
+14,Nasr City,2,9
 2,Zamalek,4,5
 8,heliopolis,2,4
 9,heliopolis,1,2
-10,new cairo,1,5
+11,new cairo,1,5
 19,dokki,3,9
 8,heliopolis,2,4
-9,heliopolis,1,2
-10,new cairo,1,5
-19,dokki,3,9
+12,giza,1,2
+13,new cairo,1,5
