@@ -1,0 +1,11 @@
+id,area,priority,weight_kg
+10,Heliopolis,1,5.0
+11,Heliopolis,2,4.0
+12,New Cairo,1,3.0
+13,New Cairo,2,6.0
+14,Nasr City,1,2.5
+15,Nasr City,1,7.0
+16,Maadi,1,4.0
+17,Maadi,2,5.5
+18,Zamalek,1,9.5
+19,Zamalek,2,0.5
